@@ -1,5 +1,8 @@
 #Log Analysis
 
+Before running the code you need to setup up a virtual machine. Install VirtualBox and Vagrant in your system.
+Clone the repository from by typing 'git clone https://github.com/udacity/fullstack-nanodegree-vm' from the terminal. cd into vagrant folder. Run the command 'vagrant up' in your terminal to install the operating system as per the Vagrantfile.
+
 You will need Python3 and PostgreSQL installed on your system.
 
 The following Python3 packages are required:

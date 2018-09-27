@@ -1,16 +1,16 @@
 vagrant@vagrant:/vagrant/Log Analysis$ python3 main.py
 Solution for 1st Question
-('Candidate is jerk, alleges rival', 338647)
-('Bears love berries, alleges bear', 253801)
-('Bad things gone, say good people', 170098)
+Candidate is jerk, alleges rival - 338647
+Bears love berries, alleges bear - 253801
+Bad things gone, say good people - 170098
 
 
-Solution for 2st Question
-('Ursula La Multa', 507594)
-('Rudolf von Treppenwitz', 423457)
-('Anonymous Contributor', 170098)
-('Markoff Chaney', 84557)
+Solution for 2nd Question
+Ursula La Multa - 507594
+Rudolf von Treppenwitz - 423457
+Anonymous Contributor - 170098
+Markoff Chaney - 84557
 
 
-Solution for 3st Question
-('July      17,2016', Decimal('2.2626862468027260'))
+Solution for 3rd Question
+July      17,2016 - 2.2626862468027260
